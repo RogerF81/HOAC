@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=default_vol_conf
+name=Default volume config for HTC devices
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=RogerF81
+description=This module replaces the default_vol.conf and the TFA_default_vol_level.conf on HTC devices and brings new custom volume steps.
 template=1400

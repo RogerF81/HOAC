@@ -42,7 +42,8 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "     Default volume config     "
+  ui_print "        for HTC devices        "
   ui_print "*******************************"
 }
 
