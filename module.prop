@@ -1,5 +1,5 @@
-id=default_vol_conf
-name=Default volume config for HTC devices
+id=default_volume-config
+name=Custom default volume config for HTC devices
 version=v1
 versionCode=1
 author=RogerF81
